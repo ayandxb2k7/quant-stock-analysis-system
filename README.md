@@ -37,3 +37,9 @@ quant-stock-analysis-system/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
+created by
+
+Ayan Khan 
+computer science student
+Bits Pilani Dubai Campus
